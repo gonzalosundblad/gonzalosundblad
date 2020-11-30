@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**gonzalosundblad/gonzalosundblad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a Full Stack Web Devleoper from Buenos Aires, Argentina
 
 Skills in :
@@ -20,8 +17,8 @@ Skills in :
 -Bootstrap
 -Git
 -NPM
--Metodologías Ágiles (Scrum)
--Arquitectura de microservicios
+-Agile SCRUM methodology
+-Microservices architecture
 -Moleculer.js
 -React native
 -Adobe Photoshop
@@ -30,4 +27,4 @@ Contact:
 Email: sundbladgonzalo@gmail.com
 WhatsApp: +5411 30341995
 
-Linkedin: https://www.linkedin.com/in/gonzalo-sundblad-ba563b176/
+LinkedIn: https://www.linkedin.com/in/gonzalo-sundblad-ba563b176/
