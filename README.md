@@ -22,8 +22,7 @@ Skills in :
 -Moleculer.js
 -React native
 -Adobe Photoshop
-
-Contact: 
+ 
 Email: sundbladgonzalo@gmail.com
 WhatsApp: +5411 30341995
 
