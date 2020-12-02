@@ -20,6 +20,7 @@ Skills in :
 -Agile SCRUM methodology
 -Microservices architecture
 -Moleculer.js
+-Firebase
 -React native
 -Adobe Photoshop
  
