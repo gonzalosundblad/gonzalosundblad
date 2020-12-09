@@ -27,4 +27,4 @@ Skills in :
 Email: sundbladgonzalo@gmail.com
 WhatsApp: +5411 30341995
 
-LinkedIn: https://www.linkedin.com/in/gonzalo-sundblad-ba563b176/
+LinkedIn: https://www.linkedin.com/in/gonzalosundblad/
