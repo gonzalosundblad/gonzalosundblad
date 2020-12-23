@@ -4,7 +4,7 @@ I'm a Full Stack Web Devleoper from Buenos Aires, Argentina
 
 Skills in :
 -React.js
--Redux
+-Redux 
 -Web APIs
 -Node.js
 -Express.js
