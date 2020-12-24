@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack Web Devleoper from Buenos Aires, Argentina
+I'm a Full Stack Web Devleoper from Buenos Aires, Argentina 
 
 Skills in :
 -React.js
