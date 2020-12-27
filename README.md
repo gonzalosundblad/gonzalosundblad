@@ -6,7 +6,7 @@ Skills in :
 -React.js
 -Redux 
 -Web APIs
--Node.js
+-Node.js 
 -Express.js
 -SQL
 -PostgreSQL
