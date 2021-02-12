@@ -24,6 +24,8 @@ React.js
 | Firebase
 | React native
 | Adobe Photoshop
+
+resume: https://drive.google.com/file/d/1geezXC_7kTI73WaOKb4qYVdeg13wIKy3/view?usp=sharing
  
 Email: sundbladgonzalo@gmail.com
 
