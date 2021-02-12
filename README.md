@@ -4,20 +4,27 @@ I'm a Full Stack Web Devleoper from Buenos Aires, Argentina
  
 Skills in :
 
-React.js
+Javascript
+| Typescript
+| React.js
 | Redux 
 | Web APIs
 | Node.js 
 | Express.js
+| Nest.js
 | SQL
 | PostgreSQL
 | MySQL
 | Sequelize
+| TypeORM
 | HTML
 | CSS
 | Bootstrap
 | Git
 | NPM
+| Yarn
+| Docker
+| Docker Compose
 | Agile SCRUM methodology
 | Microservices architecture
 | Moleculer.js
